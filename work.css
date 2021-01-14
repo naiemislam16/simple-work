@@ -1,0 +1,79 @@
+*{
+	margin: 0;
+}
+.one{
+
+	background-image: url('naiem.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 300px;
+	text-align: center;
+	padding-top: 50px;
+}
+.one p{
+	font-size: 20px;
+	word-spacing: 2px;
+	letter-spacing: 1px;
+}
+.two h2{
+	padding-top: 40px;
+}
+.two{
+	width: 25%;
+	height: 300px;
+	background-color: #51F5F5;
+	margin-left: 22%;
+	margin-top: -8%;
+	padding: 30px 20px;
+	text-align: center;
+	border: 10px inset green;
+
+}
+.three{
+	width: 25%;
+	height: 310px;
+	background-color: #F55151;
+	margin-left: 55%;
+	float: left;
+	margin-top: -380px;
+	padding: 30px 20px;
+	text-align: center;	
+	border: 10px inset green;
+	
+
+}
+.three p{
+	padding-top: 40px;
+}
+.three button{
+	width: 60%;
+	padding: 15px 40px;
+	background-color: red;
+	display: inline-block;
+	border: none;
+	margin-top: 4%;
+	transition: all 0.67s, font-size 2s;
+	font-weight: 700;
+}
+.fa-comments{
+	font-size: 60px;
+	margin-bottom: 2%;
+
+}
+.fa-phone-alt{
+	font-size: 60px;
+	margin-bottom: 2%;
+}
+.three button:hover{
+	background-color: blue;
+}
+.two p{
+	padding-top: 60px;
+}
+.one h1{
+	font-size: 80px;
+	color: white;
+}
+body{
+	background-color:#1E2F3F;
+}
